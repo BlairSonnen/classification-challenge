@@ -1,5 +1,5 @@
 # Module 13 challenge homework
-Classification Challenge
+**Classification Challenge**
 
 ### Authored by Blair Sonnen for the AI Bootcamp West 
 
@@ -8,10 +8,12 @@ Classification Challenge
 ### Project Overview
 
 This project was to follow the instructions to execute on analyzing the linked spam detection data provided, and make a prediction models based off Random Forest and Logistic Regression methods.
+
 ---
 ### Installation and Setup
 
 This code must be run from *spam_detector.ipynb* in the same root directory as all other files.
+
 --- 
 ### List of files needed
 
